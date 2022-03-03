@@ -6,3 +6,21 @@
     background-image: url("tacky.jpeg");
 
 }
+
+.c1 {
+    background-color:#ebac59;
+}
+
+.mb {
+    margin-bottom: 20em;
+}/*move background sub-div*/
+
+.md {
+    margin-top: 3em;
+    margin-right: 60em;
+    margin-left: 5em;
+}
+
+.mi { margin-top: 1em;
+
+}/*  move image */
